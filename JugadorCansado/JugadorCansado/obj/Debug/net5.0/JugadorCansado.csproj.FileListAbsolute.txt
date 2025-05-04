@@ -1,0 +1,15 @@
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\bin\Debug\net5.0\JugadorCansado.exe
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\bin\Debug\net5.0\JugadorCansado.deps.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\bin\Debug\net5.0\JugadorCansado.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\bin\Debug\net5.0\JugadorCansado.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\bin\Debug\net5.0\JugadorCansado.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\bin\Debug\net5.0\JugadorCansado.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\obj\Debug\net5.0\JugadorCansado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\obj\Debug\net5.0\JugadorCansado.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\obj\Debug\net5.0\JugadorCansado.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\obj\Debug\net5.0\JugadorCansado.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\obj\Debug\net5.0\JugadorCansado.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\obj\Debug\net5.0\refint\JugadorCansado.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\obj\Debug\net5.0\JugadorCansado.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\obj\Debug\net5.0\JugadorCansado.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\obj\Debug\net5.0\ref\JugadorCansado.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\c-sharp\\Sem\u00E1foro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA424D37-88F1-4225-ADF6-1FE7749A550C}|Sem\u00E1foro\\Sem\u00E1foro.csproj|c:\\users\\nicol\\onedrive\\escritorio\\poli\\c-sharp\\sem\u00E1foro\\sem\u00E1foro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA424D37-88F1-4225-ADF6-1FE7749A550C}|Sem\u00E1foro\\Sem\u00E1foro.csproj|solutionrelative:sem\u00E1foro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\c-sharp\\Sem\u00E1foro\\Sem\u00E1foro\\Program.cs",
+              "RelativeDocumentMoniker": "Sem\u00E1foro\\Program.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\c-sharp\\Sem\u00E1foro\\Sem\u00E1foro\\Program.cs",
+              "RelativeToolTip": "Sem\u00E1foro\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:11:47.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

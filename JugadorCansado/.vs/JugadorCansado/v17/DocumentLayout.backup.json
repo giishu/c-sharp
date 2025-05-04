@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\c-sharp\\JugadorCansado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FBA0BD-D191-4933-8A04-75ADB58D009B}|JugadorCansado\\JugadorCansado.csproj|c:\\users\\nicol\\onedrive\\escritorio\\poli\\c-sharp\\jugadorcansado\\jugadorcansado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FBA0BD-D191-4933-8A04-75ADB58D009B}|JugadorCansado\\JugadorCansado.csproj|solutionrelative:jugadorcansado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\c-sharp\\JugadorCansado\\JugadorCansado\\Program.cs",
+              "RelativeDocumentMoniker": "JugadorCansado\\Program.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\c-sharp\\JugadorCansado\\JugadorCansado\\Program.cs*",
+              "RelativeToolTip": "JugadorCansado\\Program.cs*",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwFQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:02:04.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\bin\Debug\net5.0\Semáforo.exe
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\bin\Debug\net5.0\Semáforo.deps.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\bin\Debug\net5.0\Semáforo.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\bin\Debug\net5.0\Semáforo.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\bin\Debug\net5.0\Semáforo.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\bin\Debug\net5.0\Semáforo.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\net5.0\Semáforo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\net5.0\Semáforo.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\net5.0\Semáforo.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\net5.0\Semáforo.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\net5.0\Semáforo.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\net5.0\refint\Semáforo.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\net5.0\Semáforo.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\net5.0\Semáforo.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\net5.0\ref\Semáforo.dll
