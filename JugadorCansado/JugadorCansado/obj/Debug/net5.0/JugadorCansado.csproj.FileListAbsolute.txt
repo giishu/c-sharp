@@ -13,3 +13,4 @@ C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\ob
 C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\obj\Debug\net5.0\JugadorCansado.pdb
 C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\obj\Debug\net5.0\JugadorCansado.genruntimeconfig.cache
 C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\obj\Debug\net5.0\ref\JugadorCansado.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\JugadorCansado\JugadorCansado\obj\Debug\net5.0\JugadorCansado.sourcelink.json

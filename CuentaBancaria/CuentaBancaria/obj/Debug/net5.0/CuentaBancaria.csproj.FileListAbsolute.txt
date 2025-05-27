@@ -13,3 +13,4 @@ C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\CuentaBancaria\CuentaBancaria\ob
 C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\CuentaBancaria\CuentaBancaria\obj\Debug\net5.0\CuentaBancaria.pdb
 C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\CuentaBancaria\CuentaBancaria\obj\Debug\net5.0\CuentaBancaria.genruntimeconfig.cache
 C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\CuentaBancaria\CuentaBancaria\obj\Debug\net5.0\ref\CuentaBancaria.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\CuentaBancaria\CuentaBancaria\obj\Debug\net5.0\CuentaBancaria.sourcelink.json

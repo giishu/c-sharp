@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{E7FBA0BD-D191-4933-8A04-75ADB58D009B}|JugadorCansado\\JugadorCansado.csproj|c:\\users\\nicol\\onedrive\\escritorio\\poli\\c-sharp\\jugadorcansado\\jugadorcansado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7FBA0BD-D191-4933-8A04-75ADB58D009B}|JugadorCansado\\JugadorCansado.csproj|solutionrelative:jugadorcansado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FBA0BD-D191-4933-8A04-75ADB58D009B}|JugadorCansado\\JugadorCansado.csproj|c:\\users\\nicol\\onedrive\\escritorio\\poli\\c-sharp\\jugadorcansado\\jugadorcansado\\amateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FBA0BD-D191-4933-8A04-75ADB58D009B}|JugadorCansado\\JugadorCansado.csproj|solutionrelative:jugadorcansado\\amateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FBA0BD-D191-4933-8A04-75ADB58D009B}|JugadorCansado\\JugadorCansado.csproj|c:\\users\\nicol\\onedrive\\escritorio\\poli\\c-sharp\\jugadorcansado\\jugadorcansado\\ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FBA0BD-D191-4933-8A04-75ADB58D009B}|JugadorCansado\\JugadorCansado.csproj|solutionrelative:jugadorcansado\\ijugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FBA0BD-D191-4933-8A04-75ADB58D009B}|JugadorCansado\\JugadorCansado.csproj|c:\\users\\nicol\\onedrive\\escritorio\\poli\\c-sharp\\jugadorcansado\\jugadorcansado\\profesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FBA0BD-D191-4933-8A04-75ADB58D009B}|JugadorCansado\\JugadorCansado.csproj|solutionrelative:jugadorcansado\\profesional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Amateur.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\c-sharp\\JugadorCansado\\JugadorCansado\\Amateur.cs",
+              "RelativeDocumentMoniker": "JugadorCansado\\Amateur.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\c-sharp\\JugadorCansado\\JugadorCansado\\Amateur.cs",
+              "RelativeToolTip": "JugadorCansado\\Amateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:38:15.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profesional.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\c-sharp\\JugadorCansado\\JugadorCansado\\Profesional.cs",
+              "RelativeDocumentMoniker": "JugadorCansado\\Profesional.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\c-sharp\\JugadorCansado\\JugadorCansado\\Profesional.cs",
+              "RelativeToolTip": "JugadorCansado\\Profesional.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:36:13.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IJugador.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\c-sharp\\JugadorCansado\\JugadorCansado\\IJugador.cs",
+              "RelativeDocumentMoniker": "JugadorCansado\\IJugador.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\c-sharp\\JugadorCansado\\JugadorCansado\\IJugador.cs",
+              "RelativeToolTip": "JugadorCansado\\IJugador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:35:19.401Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "JugadorCansado\\Program.cs",
               "ToolTip": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\c-sharp\\JugadorCansado\\JugadorCansado\\Program.cs",
               "RelativeToolTip": "JugadorCansado\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAswBgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T06:02:04.074Z",
               "EditorCaption": ""

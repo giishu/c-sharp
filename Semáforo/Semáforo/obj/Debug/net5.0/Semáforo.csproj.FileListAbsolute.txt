@@ -13,3 +13,4 @@ C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\ne
 C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\net5.0\Semáforo.pdb
 C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\net5.0\Semáforo.genruntimeconfig.cache
 C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\net5.0\ref\Semáforo.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Semáforo\Semáforo\obj\Debug\net5.0\Semáforo.sourcelink.json

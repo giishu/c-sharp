@@ -1,0 +1,16 @@
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\bin\Debug\net5.0\Sanatorio.exe
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\bin\Debug\net5.0\Sanatorio.deps.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\bin\Debug\net5.0\Sanatorio.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\bin\Debug\net5.0\Sanatorio.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\bin\Debug\net5.0\Sanatorio.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\bin\Debug\net5.0\Sanatorio.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\obj\Debug\net5.0\Sanatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\obj\Debug\net5.0\Sanatorio.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\obj\Debug\net5.0\Sanatorio.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\obj\Debug\net5.0\Sanatorio.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\obj\Debug\net5.0\Sanatorio.sourcelink.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\obj\Debug\net5.0\Sanatorio.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\obj\Debug\net5.0\refint\Sanatorio.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\obj\Debug\net5.0\Sanatorio.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\obj\Debug\net5.0\Sanatorio.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Sanatorio\Sanatorio\obj\Debug\net5.0\ref\Sanatorio.dll
