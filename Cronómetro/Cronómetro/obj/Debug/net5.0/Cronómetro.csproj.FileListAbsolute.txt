@@ -1,0 +1,30 @@
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\bin\Debug\net5.0\Cronómetro.exe
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\bin\Debug\net5.0\Cronómetro.deps.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\bin\Debug\net5.0\Cronómetro.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\bin\Debug\net5.0\Cronómetro.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\bin\Debug\net5.0\Cronómetro.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\bin\Debug\net5.0\Cronómetro.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\obj\Debug\net5.0\refint\Cronómetro.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Cronómetro\Cronómetro\obj\Debug\net5.0\ref\Cronómetro.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\bin\Debug\net5.0\Cronómetro.exe
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\bin\Debug\net5.0\Cronómetro.deps.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\bin\Debug\net5.0\Cronómetro.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\bin\Debug\net5.0\Cronómetro.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\bin\Debug\net5.0\Cronómetro.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\bin\Debug\net5.0\Cronómetro.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\obj\Debug\net5.0\refint\Cronómetro.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\obj\Debug\net5.0\Cronómetro.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Cronómetro\Cronómetro\obj\Debug\net5.0\ref\Cronómetro.dll

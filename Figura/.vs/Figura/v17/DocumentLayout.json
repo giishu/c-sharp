@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\ejs poo\\Figura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB00719-B705-48A9-8483-9756003C589F}|Figura\\Figura.csproj|c:\\users\\nicol\\onedrive\\escritorio\\poli\\ejs poo\\figura\\figura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB00719-B705-48A9-8483-9756003C589F}|Figura\\Figura.csproj|solutionrelative:figura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB00719-B705-48A9-8483-9756003C589F}|Figura\\Figura.csproj|c:\\users\\nicol\\onedrive\\escritorio\\poli\\ejs poo\\figura\\figura\\ifigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB00719-B705-48A9-8483-9756003C589F}|Figura\\Figura.csproj|solutionrelative:figura\\ifigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB00719-B705-48A9-8483-9756003C589F}|Figura\\Figura.csproj|c:\\users\\nicol\\onedrive\\escritorio\\poli\\ejs poo\\figura\\figura\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB00719-B705-48A9-8483-9756003C589F}|Figura\\Figura.csproj|solutionrelative:figura\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB00719-B705-48A9-8483-9756003C589F}|Figura\\Figura.csproj|c:\\users\\nicol\\onedrive\\escritorio\\poli\\ejs poo\\figura\\figura\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB00719-B705-48A9-8483-9756003C589F}|Figura\\Figura.csproj|solutionrelative:figura\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB00719-B705-48A9-8483-9756003C589F}|Figura\\Figura.csproj|c:\\users\\nicol\\onedrive\\escritorio\\poli\\ejs poo\\figura\\figura\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB00719-B705-48A9-8483-9756003C589F}|Figura\\Figura.csproj|solutionrelative:figura\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB00719-B705-48A9-8483-9756003C589F}|Figura\\Figura.csproj|c:\\users\\nicol\\onedrive\\escritorio\\poli\\ejs poo\\figura\\figura\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB00719-B705-48A9-8483-9756003C589F}|Figura\\Figura.csproj|solutionrelative:figura\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\ejs poo\\Figura\\Figura\\Circulo.cs",
+              "RelativeDocumentMoniker": "Figura\\Circulo.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\ejs poo\\Figura\\Figura\\Circulo.cs",
+              "RelativeToolTip": "Figura\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:58:11.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\ejs poo\\Figura\\Figura\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Figura\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\ejs poo\\Figura\\Figura\\Triangulo.cs",
+              "RelativeToolTip": "Figura\\Triangulo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:57:02.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\ejs poo\\Figura\\Figura\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Figura\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\ejs poo\\Figura\\Figura\\Cuadrado.cs",
+              "RelativeToolTip": "Figura\\Cuadrado.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:56:08.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\ejs poo\\Figura\\Figura\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Figura\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\ejs poo\\Figura\\Figura\\Rectangulo.cs",
+              "RelativeToolTip": "Figura\\Rectangulo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:53:47.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFigura.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\ejs poo\\Figura\\Figura\\IFigura.cs",
+              "RelativeDocumentMoniker": "Figura\\IFigura.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\ejs poo\\Figura\\Figura\\IFigura.cs",
+              "RelativeToolTip": "Figura\\IFigura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:52:59.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\ejs poo\\Figura\\Figura\\Program.cs",
+              "RelativeDocumentMoniker": "Figura\\Program.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Escritorio\\Poli\\ejs poo\\Figura\\Figura\\Program.cs",
+              "RelativeToolTip": "Figura\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:53:16.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

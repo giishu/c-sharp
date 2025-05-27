@@ -1,0 +1,30 @@
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\bin\Debug\net5.0\Figura.exe
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\bin\Debug\net5.0\Figura.deps.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\bin\Debug\net5.0\Figura.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\bin\Debug\net5.0\Figura.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\bin\Debug\net5.0\Figura.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\bin\Debug\net5.0\Figura.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\obj\Debug\net5.0\Figura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\obj\Debug\net5.0\Figura.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\obj\Debug\net5.0\Figura.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\obj\Debug\net5.0\Figura.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\obj\Debug\net5.0\Figura.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\obj\Debug\net5.0\refint\Figura.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\obj\Debug\net5.0\Figura.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\obj\Debug\net5.0\Figura.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Figura\Figura\obj\Debug\net5.0\ref\Figura.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\bin\Debug\net5.0\Figura.exe
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\bin\Debug\net5.0\Figura.deps.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\bin\Debug\net5.0\Figura.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\bin\Debug\net5.0\Figura.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\bin\Debug\net5.0\Figura.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\bin\Debug\net5.0\Figura.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\obj\Debug\net5.0\Figura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\obj\Debug\net5.0\Figura.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\obj\Debug\net5.0\Figura.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\obj\Debug\net5.0\Figura.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\obj\Debug\net5.0\Figura.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\obj\Debug\net5.0\refint\Figura.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\obj\Debug\net5.0\Figura.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\obj\Debug\net5.0\Figura.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Figura\Figura\obj\Debug\net5.0\ref\Figura.dll

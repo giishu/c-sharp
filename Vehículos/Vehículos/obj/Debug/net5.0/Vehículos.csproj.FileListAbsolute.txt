@@ -1,0 +1,30 @@
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\bin\Debug\net5.0\Vehículos.exe
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\bin\Debug\net5.0\Vehículos.deps.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\bin\Debug\net5.0\Vehículos.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\bin\Debug\net5.0\Vehículos.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\bin\Debug\net5.0\Vehículos.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\bin\Debug\net5.0\Vehículos.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\obj\Debug\net5.0\refint\Vehículos.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\c-sharp\Vehículos\Vehículos\obj\Debug\net5.0\ref\Vehículos.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\bin\Debug\net5.0\Vehículos.exe
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\bin\Debug\net5.0\Vehículos.deps.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\bin\Debug\net5.0\Vehículos.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\bin\Debug\net5.0\Vehículos.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\bin\Debug\net5.0\Vehículos.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\bin\Debug\net5.0\Vehículos.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\obj\Debug\net5.0\refint\Vehículos.dll
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.pdb
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\obj\Debug\net5.0\Vehículos.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\Poli\ejs poo\Vehículos\Vehículos\obj\Debug\net5.0\ref\Vehículos.dll
