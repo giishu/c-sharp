@@ -92,4 +92,46 @@ public class Hospital
         }
     }
 
+    public void DarDeAltaPaciente(string dni, string nombre, string telefono, string obraSocial = null, double? cobertura = null)
+    {
+        if (Pacientes.Any(p => p.Dni == dni))
+        {
+            Console.WriteLine("Ya existe un paciente con ese DNI.");
+            return;
+        }
+
+        Pacientes.Add(new Paciente(dni, nombre, telefono, obraSocial, cobertura));
+        Console.WriteLine("Paciente dado de alta exitosamente.");
+    }
+
+    public void ListarPacientes()
+    {
+        Console.WriteLine("=== Lista de pacientes ===");
+        foreach (var p in Pacientes)
+        {
+            Console.WriteLine(p);
+        }
+    }
+
+    public void CalcularCostoIntervencionesPorDNI(string dni)
+    {
+        var paciente = Pacientes.FirstOrDefault(p => p.Dni == dni);
+        if (paciente == null)
+        {
+            Console.WriteLine("Paciente no encontrado.");
+            return;
+        }
+
+        var intervencionesPaciente = Solicitudes.Where(s => s.Paciente.Dni == dni);
+        decimal total = 0;
+
+        foreach (var solicitud in intervencionesPaciente)
+        {
+            decimal monto = solicitud.CalcularMontoFinal();
+            Console.WriteLine($"{solicitud.Intervencion.Descripcion}: ${monto:F2}");
+            total += monto;
+        }
+
+        Console.WriteLine($"Total a pagar: ${total:F2}");
+    }
 }
